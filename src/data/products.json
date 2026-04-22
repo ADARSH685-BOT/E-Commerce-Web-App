@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1, "name": "Sony WH-1000XM5 Headphones", "brand": "Sony", "category": "electronics",
+    "price": 399, "discountPrice": 299, "rating": 4.8, "reviewCount": 2341, "inStock": true, "badge": "Best Seller",
+    "images": ["https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80","https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&q=80","https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?w=600&q=80"],
+    "colors": ["Black","Silver","Midnight Blue"], "sizes": [], "description": "Industry-leading noise canceling with Dual Noise Sensor technology. Next-level music with Edge-AI, co-developed with Sony Music Studios Tokyo."
+  },
+  {
+    "id": 2, "name": "Apple MacBook Air M3", "brand": "Apple", "category": "electronics",
+    "price": 1299, "discountPrice": 1199, "rating": 4.9, "reviewCount": 5621, "inStock": true, "badge": "New",
+    "images": ["https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80","https://images.unsplash.com/photo-1611186871525-9c4a1e5e7b5e?w=600&q=80","https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&q=80"],
+    "colors": ["Space Gray","Silver","Starlight","Midnight"], "sizes": [], "description": "Supercharged by M3 chip. Up to 18 hours battery life. Fanless design. 13.6-inch Liquid Retina display."
+  },
+  {
+    "id": 3, "name": "Samsung 4K OLED Smart TV 55\"", "brand": "Samsung", "category": "electronics",
+    "price": 1499, "discountPrice": 1099, "rating": 4.7, "reviewCount": 1823, "inStock": true, "badge": "Sale",
+    "images": ["https://images.unsplash.com/photo-1593359677879-a4bb92f829e1?w=600&q=80","https://images.unsplash.com/photo-1461151304267-38535e780c79?w=600&q=80","https://images.unsplash.com/photo-1571415060716-baff5f717c37?w=600&q=80"],
+    "colors": ["Black"], "sizes": ["43\"","55\"","65\"","75\""], "description": "Quantum HDR OLED. Neural Quantum Processor 4K. Object Tracking Sound+. Smart TV powered by Tizen OS."
+  },
+  {
+    "id": 4, "name": "iPhone 15 Pro Max", "brand": "Apple", "category": "electronics",
+    "price": 1199, "discountPrice": 1099, "rating": 4.9, "reviewCount": 8932, "inStock": true, "badge": "Best Seller",
+    "images": ["https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&q=80","https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=600&q=80","https://images.unsplash.com/photo-1574755393849-623942496936?w=600&q=80"],
+    "colors": ["Natural Titanium","Blue Titanium","White Titanium","Black Titanium"], "sizes": ["256GB","512GB","1TB"], "description": "Titanium design. A17 Pro chip. 48MP main camera with 5x optical zoom. Action button."
+  },
+  {
+    "id": 5, "name": "Canon EOS R6 Mark II", "brand": "Canon", "category": "electronics",
+    "price": 2499, "discountPrice": 2199, "rating": 4.8, "reviewCount": 743, "inStock": true, "badge": "New",
+    "images": ["https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80","https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&q=80","https://images.unsplash.com/photo-1581591524425-c7e0978865fc?w=600&q=80"],
+    "colors": ["Black"], "sizes": [], "description": "40MP full-frame CMOS sensor. 6K RAW video. In-body image stabilization. Dual card slots."
+  },
+  {
+    "id": 6, "name": "Bose QuietComfort Ultra Earbuds", "brand": "Bose", "category": "electronics",
+    "price": 299, "discountPrice": 249, "rating": 4.6, "reviewCount": 1204, "inStock": false, "badge": "Out of Stock",
+    "images": ["https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&q=80","https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=600&q=80","https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=600&q=80"],
+    "colors": ["Black","White","Sandstone"], "sizes": [], "description": "World-class noise cancellation. Immersive audio with Bose Immersive Audio. 6-hour battery life."
+  },
+  {
+    "id": 7, "name": "Dell XPS 15 Laptop", "brand": "Dell", "category": "electronics",
+    "price": 1899, "discountPrice": 1699, "rating": 4.7, "reviewCount": 2156, "inStock": true, "badge": null,
+    "images": ["https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80","https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&q=80","https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&q=80"],
+    "colors": ["Platinum Silver","Frost White"], "sizes": ["16GB RAM","32GB RAM","64GB RAM"], "description": "15.6-inch OLED display. Intel Core i9. NVIDIA GeForce RTX 4070. 1TB SSD."
+  },
+  {
+    "id": 8, "name": "GoPro HERO12 Black", "brand": "GoPro", "category": "electronics",
+    "price": 399, "discountPrice": 349, "rating": 4.5, "reviewCount": 987, "inStock": true, "badge": null,
+    "images": ["https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600&q=80","https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&q=80","https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80"],
+    "colors": ["Black"], "sizes": [], "description": "5.3K60 + 4K120 video. HyperSmooth 6.0 stabilization. Waterproof to 33ft. 27MP photos."
+  },
+  {
+    "id": 9, "name": "Oversized Wool Blazer", "brand": "Zara", "category": "fashion",
+    "price": 189, "discountPrice": 129, "rating": 4.4, "reviewCount": 567, "inStock": true, "badge": "Sale",
+    "images": ["https://images.unsplash.com/photo-1594938298603-c8148c4b4357?w=600&q=80","https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&q=80","https://images.unsplash.com/photo-1548126032-079a0fb0099d?w=600&q=80"],
+    "colors": ["Camel","Black","Ivory"], "sizes": ["XS","S","M","L","XL"], "description": "Premium wool blend oversized blazer. Notched lapels. Two front pockets. Fully lined."
+  },
+  {
+    "id": 10, "name": "Slim Fit Chino Trousers", "brand": "H&M", "category": "fashion",
+    "price": 59, "discountPrice": 39, "rating": 4.2, "reviewCount": 1234, "inStock": true, "badge": "Sale",
+    "images": ["https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=600&q=80","https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=600&q=80","https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&q=80"],
+    "colors": ["Navy","Khaki","Olive","Black"], "sizes": ["28","30","32","34","36","38"], "description": "Slim fit chino trousers in stretch cotton blend. Zip fly with button. Side and back pockets."
+  },
+  {
+    "id": 11, "name": "Silk Evening Dress", "brand": "Massimo Dutti", "category": "fashion",
+    "price": 299, "discountPrice": 219, "rating": 4.7, "reviewCount": 389, "inStock": true, "badge": "New",
+    "images": ["https://images.unsplash.com/photo-1566479179817-c0b5b4b4b4b4?w=600&q=80","https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=600&q=80","https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=600&q=80"],
+    "colors": ["Champagne","Black","Dusty Rose"], "sizes": ["XS","S","M","L","XL"], "description": "100% silk evening dress with draped neckline. Midi length. Invisible side zip."
+  },
+  {
+    "id": 12, "name": "Leather Chelsea Boots", "brand": "Clarks", "category": "fashion",
+    "price": 179, "discountPrice": 149, "rating": 4.6, "reviewCount": 892, "inStock": true, "badge": "Best Seller",
+    "images": ["https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80","https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=600&q=80","https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=600&q=80"],
+    "colors": ["Black","Tan","Dark Brown"], "sizes": ["6","7","8","9","10","11","12"], "description": "Full-grain leather Chelsea boots. Elastic side panels. Leather lining. Rubber sole."
+  },
+  {
+    "id": 13, "name": "Cashmere Turtleneck Sweater", "brand": "COS", "category": "fashion",
+    "price": 249, "discountPrice": 199, "rating": 4.8, "reviewCount": 445, "inStock": true, "badge": null,
+    "images": ["https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=600&q=80","https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=600&q=80","https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=600&q=80"],
+    "colors": ["Cream","Charcoal","Burgundy","Forest Green"], "sizes": ["XS","S","M","L","XL","XXL"], "description": "100% pure cashmere turtleneck. Ribbed cuffs and hem. Relaxed fit. Dry clean only."
+  },
+  {
+    "id": 14, "name": "Linen Summer Shirt", "brand": "Uniqlo", "category": "fashion",
+    "price": 49, "discountPrice": 35, "rating": 4.3, "reviewCount": 2103, "inStock": true, "badge": "Sale",
+    "images": ["https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&q=80","https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=600&q=80","https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=600&q=80"],
+    "colors": ["White","Sky Blue","Sage","Sand"], "sizes": ["XS","S","M","L","XL","XXL"], "description": "Premium linen shirt. Regular fit. Button-down collar. Chest pocket. Machine washable."
+  },
+  {
+    "id": 15, "name": "High-Waist Yoga Leggings", "brand": "Lululemon", "category": "fashion",
+    "price": 128, "discountPrice": 98, "rating": 4.9, "reviewCount": 3421, "inStock": true, "badge": "Best Seller",
+    "images": ["https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=600&q=80","https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80","https://images.unsplash.com/photo-1518310383802-640c2de311b2?w=600&q=80"],
+    "colors": ["Black","Navy","Heather Gray","Burgundy"], "sizes": ["XS","S","M","L","XL"], "description": "Luon fabric. 4-way stretch. Sweat-wicking. High-rise waistband. 28\" inseam."
+  },
+  {
+    "id": 16, "name": "Sneakers Air Max 270", "brand": "Nike", "category": "fashion",
+    "price": 150, "discountPrice": 120, "rating": 4.5, "reviewCount": 4521, "inStock": true, "badge": null,
+    "images": ["https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80","https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=600&q=80","https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=600&q=80"],
+    "colors": ["White/Black","Black/Red","Triple White"], "sizes": ["6","7","8","9","10","11","12"], "description": "Max Air 270 unit for all-day comfort. Mesh upper for breathability. Foam midsole."
+  },
+  {
+    "id": 17, "name": "Marble Coffee Table", "brand": "West Elm", "category": "home",
+    "price": 599, "discountPrice": 449, "rating": 4.6, "reviewCount": 234, "inStock": true, "badge": "Sale",
+    "images": ["https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80","https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=600&q=80","https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=600&q=80"],
+    "colors": ["White Marble","Black Marble"], "sizes": [], "description": "Solid marble top with brass-finished steel base. 47\" W x 24\" D x 16\" H. Assembly required."
+  },
+  {
+    "id": 18, "name": "Linen Duvet Cover Set", "brand": "Brooklinen", "category": "home",
+    "price": 189, "discountPrice": 149, "rating": 4.8, "reviewCount": 1567, "inStock": true, "badge": "Best Seller",
+    "images": ["https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=600&q=80","https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=600&q=80","https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80"],
+    "colors": ["White","Sage","Blush","Slate Blue"], "sizes": ["Twin","Full/Queen","King"], "description": "100% French flax linen. Pre-washed for softness. Includes duvet cover + 2 pillowcases. OEKO-TEX certified."
+  },
+  {
+    "id": 19, "name": "Ceramic Dinner Set (12pc)", "brand": "Le Creuset", "category": "home",
+    "price": 299, "discountPrice": 249, "rating": 4.7, "reviewCount": 678, "inStock": true, "badge": null,
+    "images": ["https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=600&q=80","https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80","https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&q=80"],
+    "colors": ["Cerise","Marseille","Meringue","Volcanic"], "sizes": [], "description": "12-piece stoneware set. Includes 4 dinner plates, 4 side plates, 4 bowls. Dishwasher safe. Chip resistant."
+  },
+  {
+    "id": 20, "name": "Scented Soy Candle Set", "brand": "Diptyque", "category": "home",
+    "price": 89, "discountPrice": 69, "rating": 4.9, "reviewCount": 2341, "inStock": true, "badge": "New",
+    "images": ["https://images.unsplash.com/photo-1602028915047-37269d1a73f7?w=600&q=80","https://images.unsplash.com/photo-1603006905003-be475563bc59?w=600&q=80","https://images.unsplash.com/photo-1608181831718-c9fca6bdcd6e?w=600&q=80"],
+    "colors": ["Baies","Figuier","Tubéreuse"], "sizes": [], "description": "Set of 3 luxury soy wax candles. 190g each. 60-hour burn time. Hand-poured in Paris."
+  },
+  {
+    "id": 21, "name": "Velvet Accent Chair", "brand": "CB2", "category": "home",
+    "price": 799, "discountPrice": 649, "rating": 4.5, "reviewCount": 189, "inStock": true, "badge": "Sale",
+    "images": ["https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&q=80","https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80","https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=600&q=80"],
+    "colors": ["Emerald","Dusty Rose","Cobalt","Mustard"], "sizes": [], "description": "Solid wood frame. High-density foam cushion. Velvet upholstery. 360° swivel base."
+  },
+  {
+    "id": 22, "name": "Minimalist Wall Clock", "brand": "Muji", "category": "home",
+    "price": 79, "discountPrice": 59, "rating": 4.4, "reviewCount": 892, "inStock": true, "badge": null,
+    "images": ["https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=600&q=80","https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80","https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80"],
+    "colors": ["White","Black","Natural Wood"], "sizes": ["30cm","40cm"], "description": "Silent sweep movement. Aluminum frame. Mineral glass lens. Battery included."
+  },
+  {
+    "id": 23, "name": "Vitamin C Serum", "brand": "The Ordinary", "category": "beauty",
+    "price": 29, "discountPrice": 22, "rating": 4.6, "reviewCount": 8921, "inStock": true, "badge": "Best Seller",
+    "images": ["https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=600&q=80","https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&q=80","https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=600&q=80"],
+    "colors": [], "sizes": ["30ml","50ml"], "description": "23% Vitamin C + 2% Vitamin F. Brightening formula. Reduces dark spots. Vegan & cruelty-free."
+  },
+  {
+    "id": 24, "name": "Hydrating Face Moisturizer", "brand": "Tatcha", "category": "beauty",
+    "price": 68, "discountPrice": 55, "rating": 4.8, "reviewCount": 4532, "inStock": true, "badge": "New",
+    "images": ["https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=600&q=80","https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=600&q=80","https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=600&q=80"],
+    "colors": [], "sizes": ["30ml","50ml"], "description": "Japanese purple rice, hyaluronic acid, and botanical extracts. 72-hour hydration. Suitable for all skin types."
+  },
+  {
+    "id": 25, "name": "Luxury Perfume - Oud Noir", "brand": "Tom Ford", "category": "beauty",
+    "price": 320, "discountPrice": 280, "rating": 4.9, "reviewCount": 1234, "inStock": true, "badge": "Best Seller",
+    "images": ["https://images.unsplash.com/photo-1541643600914-78b084683702?w=600&q=80","https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=600&q=80","https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=600&q=80"],
+    "colors": [], "sizes": ["50ml","100ml","250ml"], "description": "Dark, smoky oud with black rose and spices. Eau de Parfum. Long-lasting 12+ hours."
+  },
+  {
+    "id": 26, "name": "Matte Lipstick Collection", "brand": "Charlotte Tilbury", "category": "beauty",
+    "price": 34, "discountPrice": 28, "rating": 4.7, "reviewCount": 3421, "inStock": true, "badge": null,
+    "images": ["https://images.unsplash.com/photo-1586495777744-4e6232bf2f9b?w=600&q=80","https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=600&q=80","https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&q=80"],
+    "colors": ["Pillow Talk","Red Carpet Red","Walk of Shame","Bond Girl"], "sizes": [], "description": "Matte Revolution formula. 8-hour wear. Moisturizing. Vegan formula."
+  },
+  {
+    "id": 27, "name": "Retinol Night Cream", "brand": "Paula's Choice", "category": "beauty",
+    "price": 55, "discountPrice": 45, "rating": 4.5, "reviewCount": 2109, "inStock": false, "badge": "Out of Stock",
+    "images": ["https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=600&q=80","https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=600&q=80","https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=600&q=80"],
+    "colors": [], "sizes": ["30ml","60ml"], "description": "1% Retinol + peptides + antioxidants. Reduces wrinkles and pores. Fragrance-free."
+  },
+  {
+    "id": 28, "name": "Adjustable Dumbbell Set", "brand": "Bowflex", "category": "sports",
+    "price": 549, "discountPrice": 449, "rating": 4.8, "reviewCount": 2341, "inStock": true, "badge": "Best Seller",
+    "images": ["https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&q=80","https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&q=80","https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80"],
+    "colors": ["Black"], "sizes": ["5-52.5 lbs","10-90 lbs"], "description": "SelectTech 552. Adjusts from 5 to 52.5 lbs. 15 weight settings. Replaces 15 sets of weights."
+  },
+  {
+    "id": 29, "name": "Yoga Mat Premium", "brand": "Manduka", "category": "sports",
+    "price": 120, "discountPrice": 95, "rating": 4.9, "reviewCount": 5621, "inStock": true, "badge": "Best Seller",
+    "images": ["https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80","https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=600&q=80","https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80"],
+    "colors": ["Black","Midnight","Sage","Amethyst"], "sizes": ["Standard (71\")","Long (85\")"], "description": "PRO series. 6mm thick. Lifetime guarantee. Closed-cell surface. Non-slip grip."
+  },
+  {
+    "id": 30, "name": "Running Shoes Ultraboost 23", "brand": "Adidas", "category": "sports",
+    "price": 190, "discountPrice": 160, "rating": 4.7, "reviewCount": 3892, "inStock": true, "badge": "New",
+    "images": ["https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80","https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=600&q=80","https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=600&q=80"],
+    "colors": ["Core Black","Cloud White","Solar Red"], "sizes": ["6","7","8","9","10","11","12"], "description": "BOOST midsole. Primeknit+ upper. Continental rubber outsole. Linear Energy Push system."
+  },
+  {
+    "id": 31, "name": "Smart Fitness Watch", "brand": "Garmin", "category": "sports",
+    "price": 449, "discountPrice": 379, "rating": 4.8, "reviewCount": 1876, "inStock": true, "badge": "New",
+    "images": ["https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&q=80","https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&q=80","https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=600&q=80"],
+    "colors": ["Black","Silver","Rose Gold"], "sizes": [], "description": "GPS running watch. Heart rate monitor. VO2 max. Sleep tracking. 14-day battery life."
+  },
+  {
+    "id": 32, "name": "Resistance Bands Set", "brand": "TheraBand", "category": "sports",
+    "price": 45, "discountPrice": 35, "rating": 4.5, "reviewCount": 4231, "inStock": true, "badge": "Sale",
+    "images": ["https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80","https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&q=80","https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&q=80"],
+    "colors": ["Multi-color"], "sizes": ["Light","Medium","Heavy","X-Heavy"], "description": "Set of 5 resistance levels. Latex-free option available. Includes door anchor and handles."
+  }
+]

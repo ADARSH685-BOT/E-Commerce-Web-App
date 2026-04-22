@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=DM+Sans:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { min-height: 100%; }
+  body {
+    min-height: 100%;
+    background-color: #fafaf8;
+    color: #1a1a1a;
+    font-family: 'DM Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .dark body {
+    background-color: #1a1a1a;
+    color: #fafaf8;
+  }
+  h1, h2, h3, h4, h5 {
+    font-family: 'Playfair Display', serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-block bg-[#1a1a1a] text-[#fafaf8] px-6 py-3 font-medium tracking-wide cursor-pointer transition-all duration-300 hover:bg-[#c9a84c] hover:text-white;
+  }
+  .btn-outline {
+    @apply inline-block border border-[#1a1a1a] text-[#1a1a1a] px-6 py-3 font-medium tracking-wide cursor-pointer transition-all duration-300 hover:bg-[#1a1a1a] hover:text-[#fafaf8];
+  }
+  .btn-gold {
+    @apply inline-block bg-[#c9a84c] text-white px-6 py-3 font-medium tracking-wide cursor-pointer transition-all duration-300 hover:bg-[#a07830];
+  }
+  .input-field {
+    @apply w-full border border-gray-300 bg-white text-[#1a1a1a] px-4 py-3 outline-none focus:border-[#c9a84c] transition-colors duration-200;
+  }
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-[#1a1a1a];
+    font-family: 'Playfair Display', serif;
+  }
+  .skeleton {
+    @apply bg-gray-200 rounded animate-pulse;
+  }
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #f1f1f1; }
+::-webkit-scrollbar-thumb { background: #c9a84c; border-radius: 9999px; }
